@@ -1,0 +1,22 @@
+Event Management System using Spring MVC.
+
+The application aims to provide a comprehensive platform for event organizers to manage and promote various types of events, such as conferences, workshops, concerts, and exhibitions.
+Key features of the system include:
+1. Event creation
+2. Attendee registration
+3. Ticketing
+4. Payment integration
+5. Event scheduling
+6. Attendee management.
+
+The project will involve designing a flexible and scalable architecture using Spring MVC, integrating with a database to store event details, user information, and ticketing data. 
+Implement advanced features like email notifications, social media integration for event sharing, real-time updates, and personalized user experiences. 
+Additionally, incorporate role-based access control, allowing event organizers to manage their events, while attendees can view and register for events based on their interests.
+
+Further, 
+1. Spring Security for authentication and authorization
+2. Spring Data JPA for database access
+3. Thymeleaf for creating an engaging user interface.
+
+By building this Event Management System, my proficiency in utilizing Spring MVC to create a robust and feature-rich web application is depicted.
+  
